@@ -1,3 +1,11 @@
+
+NAMES: NDJIBU KADIOBO JUGE
+GROUP: WEDNESDAY 6PM
+ID:25273
+                                                PROBLEME STATEMENT: LIBRARY MANAGEMENT SYSTEM
+
+
+
 PHASE II
 
 📘 Business Process Modeling Explanation – Library Management System
